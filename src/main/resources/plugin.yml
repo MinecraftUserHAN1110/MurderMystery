@@ -1,0 +1,8 @@
+name: MurderMystery
+version: '${project.version}'
+main: io.github.flawgames.murdermystery.MurderMystery
+api-version: '1.20'
+
+commands: 
+  murder:
+    description: 머더
